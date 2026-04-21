@@ -1,2 +1,5 @@
 simpsons*/
 data/
+*.pth
+*.tar
+*.pth.tar
